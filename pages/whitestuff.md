@@ -2,5 +2,5 @@
 title: whitestuff
 ---
 
-## whitestuff	→	[[whitechar]] | comment | ncomment
+## whitestuff	→	[[whitechar]] | [[comment]] | ncomment
 ##
