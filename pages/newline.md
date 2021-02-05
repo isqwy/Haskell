@@ -2,5 +2,5 @@
 title: newline
 ---
 
-## newline	→	return linefeed | [[return]] | [[linefeed]] | formfeed
+## newline	→	return linefeed | [[return]] | [[linefeed]] | [[formfeed]]
 ##
