@@ -2,5 +2,5 @@
 title: small
 ---
 
-## small	→	[[ascSmall]] | uniSmall | _
+## small	→	[[ascSmall]] | [[uniSmall]] | _
 ##
