@@ -2,5 +2,5 @@
 title: symbol
 ---
 
-## symbol	→	[[ascSymbol]] | [[uniSymbol]]⟨special | _ | " | '⟩
+## symbol	→	[[ascSymbol]] | [[uniSymbol]]⟨special | [[_]] | " | '⟩
 ##
