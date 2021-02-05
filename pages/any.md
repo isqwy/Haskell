@@ -4,5 +4,5 @@ title: ANY
 
 ## ANY	→	graphic | whitechar
 
-## any	→	graphic | space | tab
+## any	→	[[graphic]] | space | tab
 ##
