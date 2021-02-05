@@ -2,6 +2,6 @@
 title: lexeme
 ---
 
-## lexeme	→	qvarid | qconid | qvarsym | qconsym
+## lexeme	→	q[[varid]] | qconid | qvarsym | qconsym
 |	[[literal]] | [[special]] | reservedop | [[reservedid]]
 ##
