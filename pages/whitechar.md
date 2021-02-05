@@ -2,5 +2,5 @@
 title: whitechar
 ---
 
-## whitechar	→	[[newline]] | [[vertab]] | space | tab | uniWhite
+## whitechar	→	[[newline]] | [[vertab]] | [[space]] | tab | uniWhite
 ##
