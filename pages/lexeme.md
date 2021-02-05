@@ -3,5 +3,5 @@ title: lexeme
 ---
 
 ## lexeme	→	qvarid | qconid | qvarsym | qconsym
-|	[[literal]] | [[special]] | reservedop | reservedid
+|	[[literal]] | [[special]] | reservedop | [[reservedid]]
 ##
