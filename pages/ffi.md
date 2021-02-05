@@ -2,4 +2,4 @@
 title: FFI
 ---
 
-## Foreign Function Interface
+## Foreign Function Interface 外部
